@@ -1,6 +1,6 @@
 # Hi there, I'm Hamza 👋
 
-I'm a full-stack software engineering student based in Toronto, passionate about building robust web applications, browser extensions, and practical developer tools.
+I'm a full-stack software engineering student based in Toronto, passionate about building robust web applications, and practical developer tools.
 
 ### 🛠️ Tech Stack
 
